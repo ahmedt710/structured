@@ -2,8 +2,8 @@
 {"colour":"Dark Blue","endTime":"2026-05-07T07:00:00-04:00","title":"Sleep","duration":"6,300 secs.","startTime":"2026-05-07T05:15:00-04:00","completed":"Yes","icon":"Moon"}
 {"colour":"Yellow","endTime":"2026-05-07T07:20:00-04:00","title":"Wake up & Get ready for gym","duration":"1,200 secs.","startTime":"2026-05-07T07:00:00-04:00","completed":"Yes","icon":"Alarm"}
 {"colour":"Green","endTime":"2026-05-07T10:00:00-04:00","title":"Post gym routine","duration":"2,400 secs.","startTime":"2026-05-07T09:20:00-04:00","completed":"Yes","icon":"Shower"}
-{"colour":"Orange","endTime":"2026-05-07T10:00:00-04:00","title":"Anki session 1","duration":"600 secs.","startTime":"2026-05-07T09:50:00-04:00","completed":"No","icon":"Desktop"}
-{"colour":"Orange","endTime":"2026-05-07T10:50:00-04:00","title":"MCAT Study Block 1A","duration":"3,000 secs.","startTime":"2026-05-07T10:00:00-04:00","completed":"No","icon":"Book"}
+{"colour":"Orange","endTime":"2026-05-07T10:00:00-04:00","title":"Anki session 1","duration":"600 secs.","startTime":"2026-05-07T09:50:00-04:00","completed":"Yes","icon":"Desktop"}
+{"colour":"Orange","endTime":"2026-05-07T10:50:00-04:00","title":"MCAT Study Block 1A","duration":"3,000 secs.","startTime":"2026-05-07T10:00:00-04:00","completed":"Yes","icon":"Book"}
 {"colour":"Blue","endTime":"2026-05-07T11:00:00-04:00","title":"MCAT Study Block 1A Break","duration":"600 secs.","startTime":"2026-05-07T10:50:00-04:00","completed":"No","icon":"iPhone"}
 {"colour":"Orange","endTime":"2026-05-07T11:50:00-04:00","title":"MCAT Study Block 1B","duration":"3,000 secs.","startTime":"2026-05-07T11:00:00-04:00","completed":"No","icon":"Book"}
 {"colour":"Purple","endTime":"2026-05-07T13:20:00-04:00","title":"Gym","duration":"5,400 secs.","startTime":"2026-05-07T11:50:00-04:00","completed":"No","icon":"Dumbbell"}
