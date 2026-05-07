@@ -5,8 +5,7 @@
 {"colour":"Orange","endTime":"2026-05-07T10:00:00-04:00","title":"Anki session 1","duration":"600 secs.","startTime":"2026-05-07T09:50:00-04:00","completed":"Yes","icon":"Desktop"}
 {"colour":"Orange","endTime":"2026-05-07T10:50:00-04:00","title":"MCAT Study Block 1A","duration":"3,000 secs.","startTime":"2026-05-07T10:00:00-04:00","completed":"Yes","icon":"Book"}
 {"colour":"Blue","endTime":"2026-05-07T11:00:00-04:00","title":"MCAT Study Block 1A Break","duration":"600 secs.","startTime":"2026-05-07T10:50:00-04:00","completed":"No","icon":"iPhone"}
-{"colour":"Orange","endTime":"2026-05-07T11:50:00-04:00","title":"MCAT Study Block 1B","duration":"3,000 secs.","startTime":"2026-05-07T11:00:00-04:00","completed":"No","icon":"Book"}
-{"colour":"Purple","endTime":"2026-05-07T13:20:00-04:00","title":"Gym","duration":"5,400 secs.","startTime":"2026-05-07T11:50:00-04:00","completed":"No","icon":"Dumbbell"}
+{"colour":"Orange","endTime":"2026-05-07T11:50:00-04:00","title":"MCAT Study Block 1B","duration":"3,000 secs.","startTime":"2026-05-07T11:00:00-04:00","completed":"Yes","icon":"Book"}
 {"colour":"Yellow","endTime":"2026-05-07T13:20:00-04:00","title":"Lunch","duration":"2,400 secs.","startTime":"2026-05-07T12:40:00-04:00","completed":"No","icon":"Meal"}
 {"colour":"Orange","endTime":"2026-05-07T14:20:00-04:00","title":"MCAT Study Block 2 CARS","duration":"3,600 secs.","startTime":"2026-05-07T13:20:00-04:00","completed":"No","icon":"Book"}
 {"colour":"Dark Green","endTime":"2026-05-07T14:35:00-04:00","title":"Dhuhr prayer","duration":"900 secs.","startTime":"2026-05-07T14:20:00-04:00","completed":"No","icon":"Mosque"}
