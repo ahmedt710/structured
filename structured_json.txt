@@ -17,6 +17,7 @@
 {"colour":"Orange","endTime":"2026-05-07T18:00:00-04:00","title":"MCAT Study Block 4","duration":"2,400 secs.","startTime":"2026-05-07T17:20:00-04:00","completed":"Yes","icon":"Task"}
 {"colour":"Dark Green","endTime":"2026-05-07T18:45:00-04:00","title":"Asr prayer","duration":"900 secs.","startTime":"2026-05-07T18:30:00-04:00","completed":"Yes","icon":"Mosque"}
 {"colour":"Orange","endTime":"2026-05-07T19:00:00-04:00","title":"Anki session 3","duration":"900 secs.","startTime":"2026-05-07T18:45:00-04:00","completed":"Yes","icon":"Desktop"}
+{"colour":"Orange","endTime":"2026-05-07T20:25:00-04:00","title":"tewst 1","duration":"2,400 secs.","startTime":"2026-05-07T19:45:00-04:00","completed":"No","icon":"Task"}
 {"colour":"Dark Green","endTime":"2026-05-07T20:45:00-04:00","title":"Maghrib prayer","duration":"900 secs.","startTime":"2026-05-07T20:30:00-04:00","completed":"No","icon":"Mosque"}
 {"colour":"Dark Green","endTime":"2026-05-07T22:00:00-04:00","title":"Quran reading","duration":"900 secs.","startTime":"2026-05-07T21:45:00-04:00","completed":"No","icon":"Book"}
 {"colour":"Dark Green","endTime":"2026-05-07T22:15:00-04:00","title":"Isha prayer","duration":"900 secs.","startTime":"2026-05-07T22:00:00-04:00","completed":"No","icon":"Mosque"}
