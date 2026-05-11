@@ -8,10 +8,9 @@
 {"colour":"Blue","endTime":"2026-05-11T12:00:00-04:00","title":"MCAT Study Block 1A Break","duration":"600 secs.","startTime":"2026-05-11T11:50:00-04:00","completed":"No","icon":"iPhone"}
 {"colour":"Orange","endTime":"2026-05-11T13:00:00-04:00","title":"MCAT Study Block 2 CARS","duration":"3,600 secs.","startTime":"2026-05-11T12:00:00-04:00","completed":"No","icon":"Book"}
 {"colour":"Yellow","endTime":"2026-05-11T13:40:00-04:00","title":"Lunch","duration":"2,400 secs.","startTime":"2026-05-11T13:00:00-04:00","completed":"No","icon":"Meal"}
-{"colour":"Blue","endTime":"2026-05-11T14:00:00-04:00","title":"MCAT Study Block 1B Break","duration":"1,800 secs.","startTime":"2026-05-11T13:30:00-04:00","completed":"No","icon":"Book"}
-{"colour":"Dark Green","endTime":"2026-05-11T14:15:00-04:00","title":"Dhuhr prayer","duration":"900 secs.","startTime":"2026-05-11T14:00:00-04:00","completed":"No","icon":"Mosque"}
-{"colour":"Orange","endTime":"2026-05-11T15:05:00-04:00","title":"MCAT Study Block 3A","duration":"3,000 secs.","startTime":"2026-05-11T14:15:00-04:00","completed":"No","icon":"Book"}
-{"colour":"Blue","endTime":"2026-05-11T15:15:00-04:00","title":"MCAT Study Block 3 Break","duration":"600 secs.","startTime":"2026-05-11T15:05:00-04:00","completed":"No","icon":"iPhone"}
+{"colour":"Dark Green","endTime":"2026-05-11T13:55:00-04:00","title":"Dhuhr prayer","duration":"900 secs.","startTime":"2026-05-11T13:40:00-04:00","completed":"No","icon":"Mosque"}
+{"colour":"Orange","endTime":"2026-05-11T14:45:00-04:00","title":"MCAT Study Block 3A","duration":"3,000 secs.","startTime":"2026-05-11T13:55:00-04:00","completed":"No","icon":"Book"}
+{"colour":"Blue","endTime":"2026-05-11T15:15:00-04:00","title":"MCAT Study Block 3 Break","duration":"1,800 secs.","startTime":"2026-05-11T14:45:00-04:00","completed":"No","icon":"iPhone"}
 {"colour":"Orange","endTime":"2026-05-11T16:05:00-04:00","title":"MCAT Study Block 3B","duration":"3,000 secs.","startTime":"2026-05-11T15:15:00-04:00","completed":"No","icon":"Book"}
 {"colour":"Blue","endTime":"2026-05-11T16:35:00-04:00","title":"MCAT Study Block 3 Break","duration":"1,800 secs.","startTime":"2026-05-11T16:05:00-04:00","completed":"No","icon":"iPhone"}
 {"colour":"Orange","endTime":"2026-05-11T17:15:00-04:00","title":"MCAT Study Block 4","duration":"2,400 secs.","startTime":"2026-05-11T16:35:00-04:00","completed":"No","icon":"Task"}
