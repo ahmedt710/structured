@@ -1,4 +1,4 @@
-{"colour":"Custom","endTime":"2026-05-22T23:59:00-04:00","title":"Pranav’s Birthday","duration":"","startTime":"2026-05-22T00:00:00-04:00","completed":"No","icon":"Birthday"}
+{"colour":"Custom","endTime":"2026-05-22T23:59:00-04:00","title":"Pranav’s Birthday","duration":"","startTime":"2026-05-22T00:00:00-04:00","completed":"Yes","icon":"Birthday"}
 {"colour":"Dark Green","endTime":"2026-05-22T05:15:00-04:00","title":"Wake up & Fajr prayer","duration":"900 secs.","startTime":"2026-05-22T05:00:00-04:00","completed":"No","icon":"Alarm"}
 {"colour":"Dark Blue","endTime":"2026-05-22T07:00:00-04:00","title":"Sleep","duration":"6,300 secs.","startTime":"2026-05-22T05:15:00-04:00","completed":"No","icon":"Moon"}
 {"colour":"Yellow","endTime":"2026-05-22T07:20:00-04:00","title":"Wake up & Get ready for gym","duration":"1,200 secs.","startTime":"2026-05-22T07:00:00-04:00","completed":"No","icon":"Alarm"}
