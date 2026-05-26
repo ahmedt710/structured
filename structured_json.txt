@@ -1,27 +1,26 @@
-{"colour":"Dark Green","endTime":"2026-05-25T05:15:00-04:00","title":"Wake up & Fajr prayer","duration":"900 secs.","startTime":"2026-05-25T05:00:00-04:00","completed":"Yes","icon":"Alarm"}
-{"colour":"Dark Blue","endTime":"2026-05-25T07:00:00-04:00","title":"Sleep","duration":"6,300 secs.","startTime":"2026-05-25T05:15:00-04:00","completed":"Yes","icon":"Moon"}
-{"colour":"Yellow","endTime":"2026-05-25T07:30:00-04:00","title":"Wake up & Get ready for gym","duration":"1,200 secs.","startTime":"2026-05-25T07:10:00-04:00","completed":"Yes","icon":"Alarm"}
-{"colour":"Blue","endTime":"2026-05-25T07:45:00-04:00","title":"medicine reorder","duration":"900 secs.","startTime":"2026-05-25T07:30:00-04:00","completed":"Yes","icon":"Pills"}
-{"colour":"Green","endTime":"2026-05-25T08:45:00-04:00","title":"tire change","duration":"3,600 secs.","startTime":"2026-05-25T07:45:00-04:00","completed":"Yes","icon":"Car"}
-{"colour":"Green","endTime":"2026-05-25T09:30:00-04:00","title":"Post gym routine","duration":"2,400 secs.","startTime":"2026-05-25T08:50:00-04:00","completed":"Yes","icon":"Shower"}
-{"colour":"Yellow","endTime":"2026-05-25T09:50:00-04:00","title":"Breakfast","duration":"1,200 secs.","startTime":"2026-05-25T09:30:00-04:00","completed":"Yes","icon":"Coffee"}
-{"colour":"Orange","endTime":"2026-05-25T10:00:00-04:00","title":"Anki session 1","duration":"600 secs.","startTime":"2026-05-25T09:50:00-04:00","completed":"Yes","icon":"Desktop"}
-{"colour":"Orange","endTime":"2026-05-25T11:20:00-04:00","title":"MCAT Study Block 1A","duration":"3,000 secs.","startTime":"2026-05-25T10:30:00-04:00","completed":"No","icon":"Book"}
-{"colour":"Blue","endTime":"2026-05-25T11:30:00-04:00","title":"MCAT Study Block 1A Break","duration":"600 secs.","startTime":"2026-05-25T11:20:00-04:00","completed":"No","icon":"iPhone"}
-{"colour":"Orange","endTime":"2026-05-25T12:20:00-04:00","title":"MCAT Study Block 1B","duration":"3,000 secs.","startTime":"2026-05-25T11:30:00-04:00","completed":"No","icon":"Book"}
-{"colour":"Yellow","endTime":"2026-05-25T13:00:00-04:00","title":"Lunch","duration":"2,400 secs.","startTime":"2026-05-25T12:20:00-04:00","completed":"No","icon":"Meal"}
-{"colour":"Orange","endTime":"2026-05-25T14:00:00-04:00","title":"MCAT Study Block 2 CARS","duration":"3,600 secs.","startTime":"2026-05-25T13:00:00-04:00","completed":"No","icon":"Book"}
-{"colour":"Blue","endTime":"2026-05-25T14:30:00-04:00","title":"MCAT Study Block 1B Break","duration":"1,800 secs.","startTime":"2026-05-25T14:00:00-04:00","completed":"No","icon":"Book"}
-{"colour":"Dark Green","endTime":"2026-05-25T14:45:00-04:00","title":"Dhuhr prayer","duration":"900 secs.","startTime":"2026-05-25T14:30:00-04:00","completed":"No","icon":"Mosque"}
-{"colour":"Orange","endTime":"2026-05-25T15:35:00-04:00","title":"MCAT Study Block 3A","duration":"3,000 secs.","startTime":"2026-05-25T14:45:00-04:00","completed":"No","icon":"Book"}
-{"colour":"Blue","endTime":"2026-05-25T15:45:00-04:00","title":"MCAT Study Block 3 Break","duration":"600 secs.","startTime":"2026-05-25T15:35:00-04:00","completed":"No","icon":"iPhone"}
-{"colour":"Orange","endTime":"2026-05-25T16:35:00-04:00","title":"MCAT Study Block 3B","duration":"3,000 secs.","startTime":"2026-05-25T15:45:00-04:00","completed":"No","icon":"Book"}
-{"colour":"Blue","endTime":"2026-05-25T17:05:00-04:00","title":"MCAT Study Block 3 Break","duration":"1,800 secs.","startTime":"2026-05-25T16:35:00-04:00","completed":"No","icon":"iPhone"}
-{"colour":"Orange","endTime":"2026-05-25T17:45:00-04:00","title":"MCAT Study Block 4","duration":"2,400 secs.","startTime":"2026-05-25T17:05:00-04:00","completed":"No","icon":"Task"}
-{"colour":"Dark Green","endTime":"2026-05-25T19:15:00-04:00","title":"Asr prayer","duration":"900 secs.","startTime":"2026-05-25T19:00:00-04:00","completed":"No","icon":"Mosque"}
-{"colour":"Orange","endTime":"2026-05-25T19:30:00-04:00","title":"Anki session 3","duration":"900 secs.","startTime":"2026-05-25T19:15:00-04:00","completed":"No","icon":"Desktop"}
-{"colour":"Dark Green","endTime":"2026-05-25T21:15:00-04:00","title":"Maghrib prayer","duration":"900 secs.","startTime":"2026-05-25T21:00:00-04:00","completed":"No","icon":"Mosque"}
-{"colour":"Dark Green","endTime":"2026-05-25T22:30:00-04:00","title":"Quran reading","duration":"900 secs.","startTime":"2026-05-25T22:15:00-04:00","completed":"No","icon":"Book"}
-{"colour":"Dark Green","endTime":"2026-05-25T22:45:00-04:00","title":"Isha prayer","duration":"900 secs.","startTime":"2026-05-25T22:30:00-04:00","completed":"No","icon":"Mosque"}
-{"colour":"Pink","endTime":"2026-05-25T23:00:00-04:00","title":"Wind down","duration":"900 secs.","startTime":"2026-05-25T22:45:00-04:00","completed":"No","icon":"Sunset"}
-{"colour":"Dark Blue","endTime":"2026-05-25T23:01:00-04:00","title":"Sleep","duration":"60 secs.","startTime":"2026-05-25T23:00:00-04:00","completed":"No","icon":"Moon"}
+{"colour":"Dark Green","endTime":"2026-05-26T05:15:00-04:00","title":"Wake up & Fajr prayer","duration":"900 secs.","startTime":"2026-05-26T05:00:00-04:00","completed":"Yes","icon":"Alarm"}
+{"colour":"Dark Blue","endTime":"2026-05-26T07:00:00-04:00","title":"Sleep","duration":"6,300 secs.","startTime":"2026-05-26T05:15:00-04:00","completed":"Yes","icon":"Moon"}
+{"colour":"Yellow","endTime":"2026-05-26T07:20:00-04:00","title":"Wake up & Get ready for gym","duration":"1,200 secs.","startTime":"2026-05-26T07:00:00-04:00","completed":"Yes","icon":"Alarm"}
+{"colour":"Purple","endTime":"2026-05-26T08:50:00-04:00","title":"Gym","duration":"5,400 secs.","startTime":"2026-05-26T07:20:00-04:00","completed":"Yes","icon":"Dumbbell"}
+{"colour":"Green","endTime":"2026-05-26T09:30:00-04:00","title":"Post gym routine","duration":"2,400 secs.","startTime":"2026-05-26T08:50:00-04:00","completed":"Yes","icon":"Shower"}
+{"colour":"Yellow","endTime":"2026-05-26T09:50:00-04:00","title":"Breakfast","duration":"1,200 secs.","startTime":"2026-05-26T09:30:00-04:00","completed":"Yes","icon":"Coffee"}
+{"colour":"Orange","endTime":"2026-05-26T10:00:00-04:00","title":"Anki session 1","duration":"600 secs.","startTime":"2026-05-26T09:50:00-04:00","completed":"Yes","icon":"Desktop"}
+{"colour":"Orange","endTime":"2026-05-26T10:50:00-04:00","title":"MCAT Study Block 1A","duration":"3,000 secs.","startTime":"2026-05-26T10:00:00-04:00","completed":"Yes","icon":"Book"}
+{"colour":"Blue","endTime":"2026-05-26T11:00:00-04:00","title":"MCAT Study Block 1A Break","duration":"600 secs.","startTime":"2026-05-26T10:50:00-04:00","completed":"Yes","icon":"iPhone"}
+{"colour":"Orange","endTime":"2026-05-26T11:50:00-04:00","title":"MCAT Study Block 1B","duration":"3,000 secs.","startTime":"2026-05-26T11:00:00-04:00","completed":"No","icon":"Book"}
+{"colour":"Yellow","endTime":"2026-05-26T12:30:00-04:00","title":"Lunch","duration":"2,400 secs.","startTime":"2026-05-26T11:50:00-04:00","completed":"No","icon":"Meal"}
+{"colour":"Orange","endTime":"2026-05-26T13:30:00-04:00","title":"MCAT Study Block 2 CARS","duration":"3,600 secs.","startTime":"2026-05-26T12:30:00-04:00","completed":"No","icon":"Book"}
+{"colour":"Blue","endTime":"2026-05-26T14:00:00-04:00","title":"MCAT Study Block 1B Break","duration":"1,800 secs.","startTime":"2026-05-26T13:30:00-04:00","completed":"No","icon":"Book"}
+{"colour":"Dark Green","endTime":"2026-05-26T14:15:00-04:00","title":"Dhuhr prayer","duration":"900 secs.","startTime":"2026-05-26T14:00:00-04:00","completed":"No","icon":"Mosque"}
+{"colour":"Orange","endTime":"2026-05-26T15:05:00-04:00","title":"MCAT Study Block 3A","duration":"3,000 secs.","startTime":"2026-05-26T14:15:00-04:00","completed":"No","icon":"Book"}
+{"colour":"Blue","endTime":"2026-05-26T15:15:00-04:00","title":"MCAT Study Block 3 Break","duration":"600 secs.","startTime":"2026-05-26T15:05:00-04:00","completed":"No","icon":"iPhone"}
+{"colour":"Orange","endTime":"2026-05-26T16:05:00-04:00","title":"MCAT Study Block 3B","duration":"3,000 secs.","startTime":"2026-05-26T15:15:00-04:00","completed":"No","icon":"Book"}
+{"colour":"Blue","endTime":"2026-05-26T16:35:00-04:00","title":"MCAT Study Block 3 Break","duration":"1,800 secs.","startTime":"2026-05-26T16:05:00-04:00","completed":"No","icon":"iPhone"}
+{"colour":"Orange","endTime":"2026-05-26T17:15:00-04:00","title":"MCAT Study Block 4","duration":"2,400 secs.","startTime":"2026-05-26T16:35:00-04:00","completed":"No","icon":"Task"}
+{"colour":"Dark Green","endTime":"2026-05-26T18:45:00-04:00","title":"Asr prayer","duration":"900 secs.","startTime":"2026-05-26T18:30:00-04:00","completed":"No","icon":"Mosque"}
+{"colour":"Orange","endTime":"2026-05-26T19:00:00-04:00","title":"Anki session 3","duration":"900 secs.","startTime":"2026-05-26T18:45:00-04:00","completed":"No","icon":"Desktop"}
+{"colour":"Dark Green","endTime":"2026-05-26T20:45:00-04:00","title":"Maghrib prayer","duration":"900 secs.","startTime":"2026-05-26T20:30:00-04:00","completed":"No","icon":"Mosque"}
+{"colour":"Dark Green","endTime":"2026-05-26T22:00:00-04:00","title":"Quran reading","duration":"900 secs.","startTime":"2026-05-26T21:45:00-04:00","completed":"No","icon":"Book"}
+{"colour":"Dark Green","endTime":"2026-05-26T22:15:00-04:00","title":"Isha prayer","duration":"900 secs.","startTime":"2026-05-26T22:00:00-04:00","completed":"No","icon":"Mosque"}
+{"colour":"Pink","endTime":"2026-05-26T22:30:00-04:00","title":"Wind down","duration":"900 secs.","startTime":"2026-05-26T22:15:00-04:00","completed":"No","icon":"Sunset"}
+{"colour":"Dark Blue","endTime":"2026-05-26T22:31:00-04:00","title":"Sleep","duration":"60 secs.","startTime":"2026-05-26T22:30:00-04:00","completed":"No","icon":"Moon"}
